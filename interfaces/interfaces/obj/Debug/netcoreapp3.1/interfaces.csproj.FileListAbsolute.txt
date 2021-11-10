@@ -1,0 +1,14 @@
+D:\c#Code\random\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.exe
+D:\c#Code\random\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.deps.json
+D:\c#Code\random\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.json
+D:\c#Code\random\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.dev.json
+D:\c#Code\random\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.dll
+D:\c#Code\random\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.pdb
+D:\c#Code\random\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.csproj.AssemblyReference.cache
+D:\c#Code\random\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\random\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.AssemblyInfoInputs.cache
+D:\c#Code\random\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.AssemblyInfo.cs
+D:\c#Code\random\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.csproj.CoreCompileInputs.cache
+D:\c#Code\random\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.dll
+D:\c#Code\random\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.pdb
+D:\c#Code\random\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.genruntimeconfig.cache
