@@ -1,0 +1,14 @@
+D:\c#Code\random\interfaces\interfaceInheritance\obj\Debug\netcoreapp3.1\interfaceInheritance.csproj.AssemblyReference.cache
+D:\c#Code\random\interfaces\interfaceInheritance\obj\Debug\netcoreapp3.1\interfaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\random\interfaces\interfaceInheritance\obj\Debug\netcoreapp3.1\interfaceInheritance.AssemblyInfoInputs.cache
+D:\c#Code\random\interfaces\interfaceInheritance\obj\Debug\netcoreapp3.1\interfaceInheritance.AssemblyInfo.cs
+D:\c#Code\random\interfaces\interfaceInheritance\obj\Debug\netcoreapp3.1\interfaceInheritance.csproj.CoreCompileInputs.cache
+D:\c#Code\random\interfaces\interfaceInheritance\bin\Debug\netcoreapp3.1\interfaceInheritance.exe
+D:\c#Code\random\interfaces\interfaceInheritance\bin\Debug\netcoreapp3.1\interfaceInheritance.deps.json
+D:\c#Code\random\interfaces\interfaceInheritance\bin\Debug\netcoreapp3.1\interfaceInheritance.runtimeconfig.json
+D:\c#Code\random\interfaces\interfaceInheritance\bin\Debug\netcoreapp3.1\interfaceInheritance.runtimeconfig.dev.json
+D:\c#Code\random\interfaces\interfaceInheritance\bin\Debug\netcoreapp3.1\interfaceInheritance.dll
+D:\c#Code\random\interfaces\interfaceInheritance\bin\Debug\netcoreapp3.1\interfaceInheritance.pdb
+D:\c#Code\random\interfaces\interfaceInheritance\obj\Debug\netcoreapp3.1\interfaceInheritance.dll
+D:\c#Code\random\interfaces\interfaceInheritance\obj\Debug\netcoreapp3.1\interfaceInheritance.pdb
+D:\c#Code\random\interfaces\interfaceInheritance\obj\Debug\netcoreapp3.1\interfaceInheritance.genruntimeconfig.cache
